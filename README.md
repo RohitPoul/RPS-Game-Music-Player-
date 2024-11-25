@@ -43,4 +43,3 @@ A Python-based desktop application that combines the classic Rock-Paper-Scissors
 - Start the application to access the Rock-Paper-Scissors game and music player.
 - Use the buttons to play a round of RPS or control music playback.
 - Add your music files to the playlist and view detailed metadata while playing.
-- 
