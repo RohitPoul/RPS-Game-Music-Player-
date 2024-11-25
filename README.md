@@ -30,7 +30,7 @@ A Python-based desktop application that combines the classic Rock-Paper-Scissors
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/RohitPoul/RPS-Game-Music-Player-/tree/main.git
    cd <repository-name>
    ```
    
