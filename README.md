@@ -36,7 +36,7 @@ A Python-based desktop application that combines the classic Rock-Paper-Scissors
    
 2. Run the application:
    ```bash
-   python game_app.py
+   python rockpaperscizor.py
    ```
 
 ## **Usage**
